@@ -3,13 +3,18 @@ This project aims to explore the factors that influence high school students' ac
 By analyzing various demographic and behavioral attributes, I seek to identify patterns and correlations that can provide insights into improving student outcomes.
 
 # Background
-As a life-long student myself, I have always been curious about the factors that influence academic performance. 
-Striving for better grades and a higher GPA has sparked my interest in understanding what drives success in the classroom.
+I’ve always been curious about the factors that influence academic performance.
+As a lifelong student, I enjoy investigating these factors using my technical skills and the knowledge gained during my university studies. 
+My interest in this area stems from my own experience in education, 
+which has inspired me to better understand what contributes to success in the classroom.
 
-The data used in this analysis comes from the  https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset. 
-The dataset contains 16 columns and 2,324 rows documenting students' academic performance, along with attributes such as ethnicity, age, study habits, extracurricular activities, and parental support.
+
 
 # Dataset
+The data used in this analysis comes from the  https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset. 
+
+The dataset contains 16 columns and 2,324 rows documenting students' academic performance, along with attributes such as ethnicity, age, study habits, extracurricular activities, and parental support.
+
 The dataset description is sourced from the original material.
 
 "This dataset contains comprehensive information on 2,392 high school students, detailing their demographics, study habits, parental involvement, extracurricular activities,
