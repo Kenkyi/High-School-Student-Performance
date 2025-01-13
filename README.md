@@ -9,6 +9,20 @@ Striving for better grades and a higher GPA has sparked my interest in understan
 The data used in this analysis comes from the  https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset. 
 The dataset contains 16 columns and 2,324 rows documenting students' academic performance, along with attributes such as ethnicity, age, study habits, extracurricular activities, and parental support.
 
+# Dataset
+The dataset description is sourced from the original material.
+
+"This dataset contains comprehensive information on 2,392 high school students, detailing their demographics, study habits, parental involvement, extracurricular activities,
+and academic performance. The target variable, GradeClass, classifies students' grades into distinct categories, providing a robust dataset for educational research, 
+predictive modeling, and statistical analysis.
+
+## Study Habits
+•	StudyTimeWeekly: Weekly study time in hours, ranging from 0 to 20.
+
+•	Absences: Number of absences during the school year, ranging from 0 to 30.
+
+•	GPA: Grade Point Average on a scale from 2.0 to 4.0, influenced by study habits, parental involvement, and extracurricular activities.
+
 
 ## The questions I wanted to answer through my exploratory analysis
 1.	How does students' performance vary across different ethnicities and age groups?
